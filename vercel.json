@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/image",
+      "destination": "https://image.mattothemoon.xyz",
+      "permanent": false
+    }
+  ]
+}
